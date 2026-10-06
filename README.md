@@ -1,5 +1,12 @@
 # 🚀 CareerSync AI
 
+Developed in the AI Lab
+By: Raunak Kumari(2402221530097)
+    Kumar Arnav (240222130071)
+    Ritika(2402221530103)
+Under the supervision of Ms. Anjali Srivastava
+
+
 ### **AI-Powered Unified Career Intelligence Platform**
 
 > **Your Career Data. One Intelligent Profile.**
